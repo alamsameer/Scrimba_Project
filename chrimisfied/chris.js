@@ -15,7 +15,7 @@ function christmassifyName() {
 // Stretch goals:
 // - Play Christmas music when Christmas class is added.
 function playmusic(){
-    let source=`<source src="jingle-bells-11295.mp3" type="audio/mpeg">`
+    let source=`<source src="https://raw.githubusercontent.com/alamsameer/Scrimba_Project/master/chrimisfied/jingle-bells-11295.mp3" type="audio/mpeg">`
     audioSelect.innerHTML=source
 }
 // - Remove the Christmas class after a given time.
